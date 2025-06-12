@@ -1,0 +1,1 @@
+# chicklingua-delete-account
